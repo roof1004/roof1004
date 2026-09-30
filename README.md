@@ -6,7 +6,7 @@
 도메인 규칙을 문서로 확정하고, 동시성·보안·데이터 정합성까지 코드로 책임집니다.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-roof1004.github.io-222?style=flat-square&logo=githubpages&logoColor=white)](https://roof1004.github.io)
-[![Email](https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-your.email@example.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:y0204jin@gmail.com)
 
 </div>
 
